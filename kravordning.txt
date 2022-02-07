@@ -1,0 +1,21 @@
+Första labbomgången
+
+1. Antal varor i korgen
+2. Totala priset.
+3. Hela listan; namn + pris.
+
+Andra labbomgången
+
+4. Kolla att prisuppslag sker!
+
+Extrauppgifter
+
+6. Många exempel på pristotaler. (Ersätts med 8. vid gott om tid)
+7. Visa priset med och utan moms.
+8. Många exempel på priser med och utan moms.
+
+Extrademo:
+
+JUnit5
+
+
