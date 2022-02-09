@@ -1,4 +1,4 @@
-import { illegalWords } from './resources/illegalWords'
+/* import { illegalWords } from './resources/illegalWords' */ 
 
 export class LicensePlateValidator {
   constructor() {}
@@ -9,11 +9,53 @@ export class LicensePlateValidator {
     }
     */
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
   /* Step 2
     validate(licenseNumber: string): boolean {
         return licenseNumber.match(/[A-Z]{3}[0-9]{2}[A-Z0-9]{1}/) != null;
     }
     */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   /* Step 3
     validate(licenseNumber: string): boolean {
@@ -21,6 +63,23 @@ export class LicensePlateValidator {
     }
     */
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  /* Step 4
   validate(licenseNumber: string): boolean {
     return (
       !this.isIllegalWord(licenseNumber.substring(0, 3)) &&
@@ -32,4 +91,5 @@ export class LicensePlateValidator {
   isIllegalWord(firstThreeLetters: string): boolean {
     return illegalWords.includes(firstThreeLetters);
   }
+  */
 }

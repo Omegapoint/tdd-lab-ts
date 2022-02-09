@@ -1,4 +1,3 @@
-import jest from "jest";
 import { Calculator } from "./example";
 
 describe("Calculator", () => {
