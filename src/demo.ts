@@ -1,4 +1,4 @@
-import { illegalWords } from './illegalWords'
+import { illegalWords } from './resources/illegalWords'
 
 export class LicensePlateValidator {
   constructor() {}
