@@ -1,0 +1,15 @@
+* Agenda med ansvarig lärare.
+    * 08:30. Del 1: Intro.
+        Förväntningar
+        Slides
+    * Labb 1
+        Varukorgen
+    * Mini-retro
+    * 10:00. Paus 15 min
+    * 10:15. Del 2: Principer, osv.
+        Attrapper
+    * Övning 2
+        Nya krav
+    * 12:00. Del 3: Återblick.
+        Förväntningarna?
+        Flera sorters test?

@@ -2,7 +2,8 @@
   "name": "tdd-lab",
   "version": "1.0.0",
   "scripts": {
-    "test": "jest --watchAll"
+    "test -w": "jest --watchAll",
+    "test": "jest"
   },
   "author": "Carl Rosengren, Arvid Larsson",
   "license": "ISC",
