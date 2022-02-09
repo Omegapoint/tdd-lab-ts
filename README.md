@@ -43,4 +43,6 @@ Ran all test suites.
 
 ## Tips
 
-Kör `npm test -w` så slipper du köra kommandot varje gång du sparar en fil. 
+Kör `npm test -w` så slipper du köra kommandot varje gång du sparar en fil.
+
+`expect(funktion).toHaveBeenCalled()`

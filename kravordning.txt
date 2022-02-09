@@ -1,21 +1,20 @@
 Första labbomgången
 
-1. Antal varor i korgen
-2. Totala priset.
-3. Hela listan; namn + pris.
+Kom ihåg att utveckla programmet i enlighet med principerna för TDD
+
+Programmets funktioner/krav:
+1. Räkna ut antal varor i korgen
+2. Totala priset på alla varor i korgen
+3. Hela listan; namn + pris
+    - "Kvitto"
 
 Andra labbomgången
 
-4. Kolla att prisuppslag sker!
+4. Skapa en mockad implementation av databasen. 
+    - Kolla att prisuppslag sker!
 
-Extrauppgifter
-
-6. Många exempel på pristotaler. (Ersätts med 8. vid gott om tid)
-7. Visa priset med och utan moms.
-8. Många exempel på priser med och utan moms.
-
-Extrademo:
-
-JUnit5
-
-
+Extra:
+5. Individuella föremål som köps i plural ska få en egen summa (se till att hela totala är korrekt)
+6. Kunden vill kunna se hur mycket som är moms.
+7. Samma som 5 men med moms.
+8. Se till att man inte kan lägga till negativa antal produkter
